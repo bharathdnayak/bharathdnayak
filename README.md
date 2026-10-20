@@ -197,12 +197,8 @@ flowchart LR
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bharathdnayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bharathdnayak&show_icons=true&hide_border=true" width="410" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bharathdnayak&theme=tokyonight&hide_border=true&background=0d1117" />
-    <img src="https://streak-stats.demolab.com/?user=bharathdnayak&hide_border=true" width="410" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathdnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathdnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="360" alt="Top Languages" />
   </picture>
 </div>
 
