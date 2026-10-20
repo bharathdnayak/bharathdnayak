@@ -1,6 +1,6 @@
 <!-- Top Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26,30&height=200&section=header&text=Bharath%20D%20Nayak&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Engineer%20%C2%B7%20IoT%20%26%20Digital%20Twins%20%C2%B7%20Systems&descAlignY=60&descSize=18" width="100%" alt="Bharath D Nayak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26,30&height=200&section=header&text=Bharath%20D%20Nayak&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Engineer%20%C2%B7%20IoT%20%C2%B7%20Digital%20Twins%20%C2%B7%20Systems&descAlignY=60&descSize=18" width="100%" alt="Bharath D Nayak" />
 
   <!-- Animated Typing Header (Space Grotesk - Perfectly Centered, Zero Clipping) -->
   <a href="https://github.com/bharathdnayak/hydroponic-digital-twin" target="_blank">
@@ -9,7 +9,7 @@
   <br><br>
 
   <!-- Badges (Cleanly linked without underline artifacts) -->
-  <a href="https://github.com/bharathdnayak/hydroponic-digital-twin" target="_blank"><img src="https://img.shields.io/badge/Digital_Twin-NITK_Research-00E676?style=for-the-badge&logo=github&logoColor=white" alt="Digital Twin Project" /></a>&nbsp;<a href="https://www.linkedin.com/in/bharath-d-nayak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:bharathdnayak13@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=bharathdnayak&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Profile views" />
+  <a href="https://github.com/bharathdnayak/hydroponic-digital-twin" target="_blank"><img src="https://img.shields.io/badge/Digital_Twin-NITK_Research-00E676?style=for-the-badge&logo=github&logoColor=white" alt="Digital Twin Project" /></a>&nbsp;<a href="https://www.linkedin.com/in/bharath-d-nayak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:bharathdnayak13@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/bharathdnayak"><img src="https://img.shields.io/badge/Open_To-Opportunities-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Open to opportunities" /></a>
 </div>
 
 ---
