@@ -1,3 +1,15 @@
+<!-- Top Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26,30&height=200&section=header&text=Bharath%20D%20Nayak&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Engineer%20%C2%B7%20IoT%20%C2%B7%20Digital%20Twins%20%C2%B7%20Systems&descAlignY=60&descSize=18" width="100%" alt="Bharath D Nayak" />
+
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/bharathdnayak/hydroponic-digital-twin" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+real-time+hardware-integrated+systems+%26+Digital+Twins+%F0%9F%8C%B1;Full-Stack+Web+Development+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%9A%A1;Telemetry+Pipelines+%E2%80%A2+MQTT+%E2%80%A2+Socket.IO+%E2%80%A2+Grafana+%F0%9F%93%88;Tracing+behavior+from+sensor-level+signals+to+visualization+%F0%9F%94%AC" alt="Typing intro" />
+  </a>
+</div>
+
+<br>
+
 # 💫 About Me:
 🌱 Currently building real-time hardware-integrated systems and Digital Twins at NITK Surathkal<br>
 🛠️ Comfortable across Java, JavaScript, Python, React.js, Node.js, Express.js, and PostgreSQL<br>
@@ -16,3 +28,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br>
+
+<!-- Bottom Animated Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26,30&height=90&section=footer" width="100%" alt="Footer Wave" />
+</div>
